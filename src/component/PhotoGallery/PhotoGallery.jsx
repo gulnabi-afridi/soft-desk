@@ -7,6 +7,7 @@ import { RxCross2 } from "react-icons/rx";
 
 
 function PhotoGallery() {
+
   // ===> states for dialogue
   const [open, setOpen] = React.useState(false);
   const [galleryImage, setGalleryImage] = useState(GalleryImage);
@@ -72,92 +73,92 @@ function PhotoGallery() {
 const GalleryImage = [
   {
     id: 1,
-    original: "/assets/gallery/1.jpg",
-    thumbnail: "/assets/gallery/1.jpg",
+    original: "/Assets/gallery/1.jpg",
+    thumbnail: "/Assets/gallery/1.jpg",
   },
   {
     id: 2,
 
-    original: "/assets/gallery/2.jpg",
-    thumbnail: "/assets/gallery/2.jpg",
+    original: "/Assets/gallery/2.jpg",
+    thumbnail: "/Assets/gallery/2.jpg",
   },
   {
     id: 3,
 
-    original: "/assets/gallery/3.jpg",
-    thumbnail: "/assets/gallery/3.jpg",
+    original: "/Assets/gallery/3.jpg",
+    thumbnail: "/Assets/gallery/3.jpg",
   },
   {
     id: 4,
 
-    original: "/assets/gallery/4.jpg",
-    thumbnail: "/assets/gallery/4.jpg",
+    original: "/Assets/gallery/4.jpg",
+    thumbnail: "/Assets/gallery/4.jpg",
   },
   {
     id: 5,
 
-    original: "/assets/gallery/5.jpg",
-    thumbnail: "/assets/gallery/5.jpg",
+    original: "/Assets/gallery/5.jpg",
+    thumbnail: "/Assets/gallery/5.jpg",
   },
   {
     id: 6,
 
-    original: "/assets/gallery/1.jpg",
-    thumbnail: "/assets/gallery/1.jpg",
+    original: "/Assets/gallery/1.jpg",
+    thumbnail: "/Assets/gallery/1.jpg",
   },
   {
     id: 7,
 
-    original: "/assets/gallery/1.jpg",
-    thumbnail: "/assets/gallery/1.jpg",
+    original: "/Assets/gallery/1.jpg",
+    thumbnail: "/Assets/gallery/1.jpg",
   },
   {
     id: 8,
 
-    original: "/assets/gallery/2.jpg",
-    thumbnail: "/assets/gallery/2.jpg",
+    original: "/Assets/gallery/2.jpg",
+    thumbnail: "/Assets/gallery/2.jpg",
   },
   {
     id: 9,
 
-    original: "/assets/gallery/3.jpg",
-    thumbnail: "/assets/gallery/3.jpg",
+    original: "/Assets/gallery/3.jpg",
+    thumbnail: "/Assets/gallery/3.jpg",
   },
   {
     id: 10,
 
-    original: "/assets/gallery/4.jpg",
-    thumbnail: "/assets/gallery/4.jpg",
+    original: "/Assets/gallery/4.jpg",
+    thumbnail: "/Assets/gallery/4.jpg",
   },
   {
     id: 11,
 
-    original: "/assets/gallery/5.jpg",
-    thumbnail: "/assets/gallery/5.jpg",
+    original: "/Assets/gallery/5.jpg",
+    thumbnail: "/Assets/gallery/5.jpg",
   },
   {
     id: 12,
 
-    original: "/assets/gallery/1.jpg",
-    thumbnail: "/assets/gallery/1.jpg",
+    original: "/Assets/gallery/1.jpg",
+    thumbnail: "/Assets/gallery/1.jpg",
   },
   {
     id: 13,
 
-    original: "/assets/gallery/1.jpg",
-    thumbnail: "/assets/gallery/1.jpg",
+    original: "/Assets/gallery/1.jpg",
+    thumbnail: "/Assets/gallery/1.jpg",
   },
   {
     id: 14,
 
-    original: "/assets/gallery/1.jpg",
-    thumbnail: "/assets/gallery/1.jpg",
+    original: "/Assets/gallery/1.jpg",
+    thumbnail: "/Assets/gallery/1.jpg",
   },
   {
     id: 15,
 
-    original: "/assets/gallery/1.jpg",
-    thumbnail: "/assets/gallery/1.jpg",
+    original: "/Assets/gallery/1.jpg",
+    thumbnail: "/Assets/gallery/1.jpg",
   },
 ];
 
